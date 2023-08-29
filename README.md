@@ -3,8 +3,28 @@
   I am passionate about learning and grateful to have found an industry that fosters it. I use my background in education and drive for collaborative learning to help our team solve complex problems. I am comfortable being creative and sharing my work with large audiences. 
 
 # Skills
-*Technical* HTML | CSS | Git | GitHub | JavaScript | jQuery | AJAX | Node.js | Express.js | SQL | PostgreSQL | React.js | Chart.js |  Redux | Redux-Saga | C# | .NET | Typescript | Heroku | Render
-Soft: Problem Solving | Team Leadership | Communication | Public Speaking | Sales | Customer Service | Growth Mindset
+Technical     | Soft
+------------- | -------------
+HTML          | Teaching
+CSS           | Lesson Planning
+Git           | Problem Solving
+GitHub        | Team Leadership
+JavaScript    | Communication
+jQuery        | Public Speaking
+AJAX          | Sales
+Node.js       | Customer Service
+Express.js    | Growth Mindset
+SQL           |
+PostgreSQL    |
+React.js      |
+Chart.js      |
+Redux         |
+Redux-Saga    |
+C#            |
+.NET          |
+TypeScript    |
+Heroku        |
+Render
 
 # How I started
   In contrast to our current world of “iPad Babies”, I grew up in a (self-coined) era of “Gameboy Babies”. My journey in technology started when I was three years old; my brother gave me his hand-me-down Gameboy Color with a game cartridge of Pokemon Crystal. I was so fascinated that I kept playing and playing, though I couldn’t yet read, until I could understand the text of the game I was playing. From this young age, I have loved exploring fantastic software experiences. As a teen, this took the form of modifying components of my PC, coding basic Python scripts on my Raspberry Pi, and exploring tools such as emulation. These technology explorations taught me curiosity, quick learning, and self-teaching, all of which I use daily with teams and clients as a software engineer. As a professional, my goal is to make the experience of software at as seamless and engaging as my first experiences were on the Gameboy Color.
