@@ -33,7 +33,7 @@ TypeScript    |
 Heroku        |
 Render  
 
-### My Journey<a name="JOURNEY"></a>
+### Journey<a name="JOURNEY"></a>
   In contrast to our current world of “iPad Babies”, I grew up in a (self-coined) era of “Gameboy Babies”. My journey in technology started when I was three years old; my brother gave me his hand-me-down Gameboy Color with a game cartridge of Pokemon Crystal. I was so fascinated that I kept playing and playing, though I couldn’t yet read, until I could understand the text of the game I was playing. From this young age, I have loved exploring fantastic software experiences. As a teen, this took the form of modifying components of my PC, coding basic Python scripts on my Raspberry Pi, and exploring tools such as emulation. These technology explorations taught me curiosity, quick learning, and self-teaching, all of which I use daily with teams and clients as a software engineer. As a professional, my goal is to make the experience of software at as seamless and engaging as my first experiences were on the Gameboy Color.
 
 ### Training<a name="TRAINING"></a>
