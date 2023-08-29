@@ -3,7 +3,7 @@
   I am passionate about learning and grateful to have found an industry that fosters it. I use my background in education and drive for collaborative learning to help our team solve complex problems. I am comfortable being creative and sharing my work with large audiences. 
 
 # Skills
-Technical: HTML | CSS | Git | GitHub | JavaScript | jQuery | AJAX | Node.js | Express.js | SQL | PostgreSQL | React.js | Chart.js |  Redux | Redux-Saga | C# | .NET | Typescript | Heroku | Render
+*Technical* HTML | CSS | Git | GitHub | JavaScript | jQuery | AJAX | Node.js | Express.js | SQL | PostgreSQL | React.js | Chart.js |  Redux | Redux-Saga | C# | .NET | Typescript | Heroku | Render
 Soft: Problem Solving | Team Leadership | Communication | Public Speaking | Sales | Customer Service | Growth Mindset
 
 # How I started
